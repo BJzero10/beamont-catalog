@@ -1,4 +1,4 @@
-# Aiche-app
+# Beamont-catalog
 
 ## Project setup
 ```
